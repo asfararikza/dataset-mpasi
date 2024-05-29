@@ -1,0 +1,170 @@
+id_bahan,nama,satuan,serving_size,kalori,protein,lemak,karbo
+B1,singkong putih,gr,100,156.1,1.4,0.3,37.8
+B10,bawang putih,siung,0,0,0,0,0
+B100,beras,gr,100,127.4,2.7,0.3,28.4
+B101,ubi putih,gr,100,77.5,1.4,0.1,17.5
+B102,sawi hijau,lembar,1,11,0.2,0.02,2.5
+B103,pasta vanila,sdt,0,0,0,0,0
+B104,agar-agar bubuk,bungkus,1,20,0,0,8
+B105,kurma,buah,1,22.12,0.2,0.03,6
+B106,bawang goreng,gr,0,0,0,0,0
+B107,melon,gr,100,33.6,0.8,0.2,8.3
+B108,soun,gr,50,180,0,0,44
+B109,toge,gr,100,23,4,0.7,2.1
+B11,jeruk,gr,100,50.4,0.9,0.1,12.4
+B110,serai,batang,0,0,0,0,0
+B111,ikan nila,gr,100,126.6,26,2.7,0
+B112,kacang merah,gr,177,225,15,1,40
+B113,bawang merah goreng,gr,0,0,0,0,0
+B114,bawang putih goreng,gr,0,0,0,0,0
+B115,minyak wijen,sdt,0,0,0,0,0
+B116,tepung serbaguna,sdm,1,36.45,1.03,0.1,7.64
+B117,tepung roti,gr,100,391.7,13.2,5.4,73.1
+B118,tepung beras,gr,100,362.9,6,1.4,80.9
+B119,gula jawa,ml,0,0,0,0,0
+B12,nasi putih,sdm,1,30,0.6,0.07,7
+B120,jamur kancing,gr,100,28,2.1,0.5,5.3
+B121,saus tiram,sdt,0,0,0,0,0
+B122,lada bubuk,sdt,0,0,0,0,0
+B123,oregano kering,sdt,0,0,0,0,0
+B124,cooking cream,ml,200,337,2.1,24.9,2.9
+B125,baby oatmeal,gr,100,69.6,2.5,1.5,11.8
+B126,stroberi,buah,1,2,0.05,0.02,0.54
+B127,mentega,gr,100,721.5,0.8,79.6,0.1
+B128,kiwi,buah,1,46,0.87,0.4,11.14
+B129,butter,gr,100,721.5,0.8,79.6,0.1
+B13,tahu,gr,100,78,7.97,4.95,2.1
+B130,spagetti,gr,100,157,5.76,0.92,30.68
+B131,edamame,gr,100,81,8.47,4.45,6.53
+B132,yoghurt plain,sdm,1,107,4.7,1.47,19.62
+B133,teri,gr,100,210,28.89,9.71,0
+B134,jamur,gr,100,28,2.1,0.5,5.3
+B135,pepaya,gr,100,39,0.61,0.14,9.81
+B136,kayu manis,gr,0,0,0,0,0
+B137,jamur tiram,gr,100,35,3.34,0.44,6.43
+B138,sawi,lembar,1,11,0.2,0.02,2.5
+B139,ikan patin,gr,100,89,14.91,2.96,0
+B14,labu siam,gr,100,17,0.82,0.13,3.9
+B140,parsley,gr,0,0,0,0,0
+B141,merica,sdt,0,0,0,0,0
+B142,merica bubuk,gr,0,0,0,0,0
+B143,kembang kol,gr,100,25,1.98,0.1,5.3
+B144,kelapa tua,sdm,0,0,0,0,0
+B145,air jahe,sdt,0,0,0,0,0
+B146,jamur shitake,buah,1,19,1.51,0.21,3.35
+B147,babat,gr,100,94,11.71,4.05,1.99
+B148,usus muda,gr,,,,,
+B149,sandung lamur,gr,100,288,26.33,19.54,0
+B15,wortel,gr,100,41,0.93,0.24,9.58
+B150,kaldu sapi,ml,240,7,0.84,0.19,0.8
+B151,kapulaga,buah,0,0,0,0,0
+B152,cengkeh,buah,0,0,0,0,0
+B153,kucai,batang,0,0,0,0,0
+B154,gula merah,gr,0,0,0,0,0
+B155,perisa pandan,tetes,0,0,0,0,0
+B156,blueberry,gr,100,51,0.42,0.64,12.17
+B157,madu,sdm,0,0,0,0,0
+B158,minyak canola,ml,0,0,0,0,0
+B159,baking powder,sdt,0,0,0,0,0
+B16,daun jeruk,lembar,0,0,0,0,0
+B160,mozzarella string,bungkus,0,0,0,0,0
+B161,kulit pangsit,buah,0,0,0,0,0
+B162,paprika hijau,gr,100,20,0.8,0.17,4.64
+B163,jamur enoki,gr,100,42,2.7,0.41,6.96
+B164,sagu,gr,100,354,0.42,0.05,87.55
+B165,jinten,sdt,0,0,0,0,0
+B166,laos,cm,0,0,0,0,0
+B167,semangka,gr,100,30,0.61,0.15,7.55
+B168,kangkung,gr,100,20,2.51,0.34,3.18
+B169,apel,buah,1,72,0.36,0.23,19.06
+B17,minyak goreng,sdm,0,0,0,0,0
+B18,santan,ml,15,35,0,3.5,1
+B19,kunyit,cm,0,0,0,0,0
+B2,ikan kembung,gr,100,167,19.32,9.36,0
+B20,jahe,cm,0,0,0,0,0
+B21,ikan tuna,gr,100,108,23.38,0.95,0
+B22,ubi ungu,gr,100,77.5,1.4,0.1,17.5
+B23,air,ml,0,0,0,0,0
+B24,kaldu jamur bubuk,sdt,0,0,0,0,0
+B25,salmon,gr,100,146,21.62,5.93,0
+B26,kentang,gr,100,87,0.1,20.13,1.87
+B27,misoa,gr,100,334,9.07,0.91,70.43
+B28,jagung,gr,100,86,3.22,1.18,19.02
+B29,daun bawang,sdm,0,0,0,0,0
+B3,ayam,gr,100,237,27.07,13.49,0
+B30,oyong,gr,11,18,1.08,0.18,4.02
+B31,ikan dori,gr,100,84,11.02,4.11,0
+B32,buncis,gr,100,31,1.82,0.12,7.13
+B33,hati ayam,gr,100,116,16.92,4.83,0
+B34,daun kelor,sdm,0,0,0,0,0
+B35,daging sapi,gr,100,288,26.33,19.54,0
+B36,labu kuning,gr,100,25,1.28,0.2,5.54
+B37,bengkoang,gr,100,38,0.72,0.09,8.82
+B38,telur ayam,butir,1,74,6.29,4.97,0.38
+B39,ubi merah,gr,100,77.5,1.4,0.1,17.5
+B4,kaldu ayam,ml,240,12,0.29,1.51,0.95
+B40,biji pala,butir,0,0,0,0,0
+B41,kecap manis,sdm,0,0,0,0,0
+B42,jeruk nipis,sdt,0,0,0,0,0
+B43,kacang wijen,sdt,0,0,0,0,0
+B44,roti tawar,lembar,1,100,3.5,1.5,18.5
+B45,mentega tawar,gr,15,110,0,12,0
+B46,mayones,ml,25,80,0,8,2
+B47,nori,lembar,0,0,0,0,0
+B48,minyak sayur,sdm,0,0,0,0,0
+B49,gula pasir,sdt,0,0,0,0,0
+B5,minyak kelapa,gr,0,0,0,0,0
+B50,kacang hijau,sdm,1,8.1,0.54,0.04,1.45
+B51,bawang bombay,gr,0,0,0,0,0
+B52,susu,ml,100,52,3.39,2.06,4.86
+B53,makaroni,gr,100,157,5.76,0.92,30.68
+B54,smoke beef,gr,50,70,7,3.5,3
+B55,brokoli,gr,100,34,2.82,0.37,6.64
+B56,kacang panjang,gr,100,31,1.82,0.12,7.13
+B57,ketumbar,sdt,0,0,0,0,0
+B58,keju,gr,100,403,24.9,33.14,1.28
+B59,ubi,gr,100,77.5,1.4,0.1,17.5
+B6,bayam,gr,100,40,2.88,2.25,3.68
+B60,tepung maizena,gr,100,360,1,0,89
+B61,cream cheese,gr,30,40,3,2.5,1
+B62,biskuit,gr,15,70,1,1.5,12
+B63,sayap ayam,potong,1,92,8.52,6.18,0
+B64,tepung tapioka,gr,100,360,0,0,89
+B65,pak choi,lembar,0,0,0,0,0
+B66,pasta,gr,100,200,8,1,40
+B67,udang,gr,100,144,27.59,2.35,1.24
+B68,tomat,gr,100,18,0.88,0.2,3.92
+B69,kemangi,tangkai,0,0,0,0,0
+B7,daun salam,lembar,0,0,0,0,0
+B70,garam,sdt,0,0,0,0,0
+B71,kemiri,butir,0,0,0,0,0
+B72,telur puyuh,butir,1,14,1.17,1,0.04
+B73,kaldu ayam bubuk,sdt,0,0,0,0,0
+B74,tepung terigu,gr,100,364,10.33,0.98,76.31
+B75,tepung panir,sdm,1,37,1.1,0.2,7.6
+B76,lengkuas,cm,0,0,0,0,0
+B77,wijen putih,sdt,0,0,0,0,0
+B78,minyak zaitun,ml,0,0,0,0,0
+B79,kaldu ikan,ml,0,0,0,0,0
+B8,sereh,batang,0,0,0,0,0
+B80,daun caisim,lembar,0,0,0,0,0
+B81,bubuk bawang putih,sdt,0,0,0,0,0
+B82,jeruk baby,ml,100,47,0.73,0.21,10.9
+B83,buah naga,gr,100,51,0.78,0.38,12.38
+B84,lemon,sdm,0,0,0,0,0
+B85,krim,ml,15,50,0.4,5.3,0.5
+B86,jahe bubuk,sdt,0,0,0,0,0
+B87,pala bubuk,sdt,0,0,0,0,0
+B88,seledri,tangkai,0,0,0,0,0
+B89,tepung ubi ungu,gr,100,77.5,1.4,0.1,17.5
+B9,bawang merah,siung,0,0,0,0,0
+B90,pisang,buah,1,105,1.3,0.4,26.9
+B91,iga,gr,100,254,19.33,19.06,0
+B92,alpukat,buah,1,332,4.02,29.47,17.15
+B93,margarin,gr,100,526,0.6,59.17,0
+B94,tempe,gr,100,193,18.54,10.8,9.39
+B95,kecap asin,sdt,0,0,0,0,0
+B96,kecap ikan,sdt,0,0,0,0,0
+B97,saus tomat,sdt,0,0,0,0,0
+B98,ikan tenggiri,gr,100,121,21.4,3.3,0
+B99,kakap,gr,100,100,20.51,1.34,0

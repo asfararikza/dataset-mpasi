@@ -1,0 +1,121 @@
+id_resep,nama_resep,kategori,porsi
+R1,Bubur Singkong Isi Ikan dan Ayam dengan Saus Jeruk,0,3
+R2,Pure Ikan Ungu,0,3
+R3,Ubi Tahu,0,3
+R4,Salmon Moringa,0,3
+R5,Sup Bayam Oyong,0,4
+R6,Bubur Nasi Buncis,0,6
+R7,Bubur Hati Ayam,0,4
+R8,Sup Labu Sapi,0,3
+R9,Sup Nasi Bayam,0,6
+R10,Sup Ubi Semur Sapi,0,4
+R11,Roti Isi Tuna Wijen,1,4
+R12,Onigiri Daun Kelor,1,6
+R13,Omelette Hati Ayam,1,3
+R14,Beef Schotel,1,6
+R15,Bola Ayam Ubi,1,11
+R16,Spinach Salmon Cheese,1,4
+R17,Roasted Stuff Wings,1,6
+R18,Puree Ikan Ungu,1,3
+R19,Tim Tahu Udang,1,12
+R20,Perkedel Ubi Merah,1,6
+R21,Pakchoi Baby Pasta,2,4
+R22,Puree Kentang Susu,0,1
+R23,Bubur Udang Tahu,0,1
+R24,Puree Kacang Ijo,0,1
+R25,Bubur Soto Ayam Santan,0,3
+R26,Bubur Puyuh Hati Ayam,0,1
+R27,Nugget Dori,2,4
+R28,Mini Fritata,2,6
+R29,Tahu Bakso Kuah,2,6
+R30,Nugget Bayam,2,4
+R31,Orek Bola Dori,2,4
+R32,Pure Bayam Tomat,0,1
+R33,Bubur Nasi Ayam Brokoli,0,1
+R34,Kentang Salmon,0,1
+R35,Tim Telur Tahu Sayur,0,1
+R36,Tim Labu Kuning,0,1
+R37,Pure Buah Naga,0,1
+R38,Ayam Lemon Daun Kelor,2,4
+R39,Puree Telur Rebus,0,1
+R40,Tumis Sapi Jamur,0,4
+R41,Tinny Meatballs,2,4
+R42,Ubi Mac N' Cheese,2,4
+R43,Bubur ikan dori,0,3
+R44,Bubur ubi ungu,0,3
+R45,Bubur iga sapi,0,3
+R46,Alpukat cheese cream,0,1
+R47,Sop udang,0,3
+R48,Ayam telur puyuh,0,3
+R49,tempe tomato meat sauce,2,3
+R50,tuna saus bayam,2,3
+R51,bakso kuah kuning,2,3
+R52,chicken veggie risotto,2,3
+R53,nasi goreng sayur,2,3
+R54,tim brokoli ayam,2,3
+R55,sup makaroni tofu brokoli,2,4
+R56,Tim Kentang Daging Giling,2,3
+R57,Tim Kentang Tenggiri Wortel,2,3
+R58,Nasi Tim Ikan Kakap,2,3
+R59,Nasi Tim Ubi Ayam Giling,2,3
+R60,Tim Labu Ikan,2,3
+R61,Puding susu vanila,1,1
+R62,Makaroni keju,1,1
+R63,Puree nasi kentang dan wortel,0,1
+R64,Pure pisang kurma,1,1
+R65,Nasi Sup Telur Puyuh Bola Tahu Ayam,2,3
+R66,Nasi Soto Ayam Kuah Kuning,2,3
+R67,Sup Telur Puyuh Ikan Air Tawar Labu Kuning,2,3
+R68,Nasi Ikan Kuah Kuning,2,3
+R69,Nugget Tempe Ayam Sayuran,2,3
+R70,Resep Tahu Tim,1,1
+R71,Resep Omelet Keju,1,1
+R72,Bubur Manado,1,1
+R73,Nugget Tempe Keju Mozzarella,1,1
+R74,Bubur Sumsum ,1,1
+R75,Nasi Tim Ayam,1,1
+R76,Sup Krim Tomat,1,1
+R77,Strawberry Banana Oatmeal,1,1
+R78,Bubur Tim Jagung,1,1
+R79,Egg & Cheese Crepes,1,1
+R80,Telur Orak-Arik Keju,1,1
+R81,Sup Ayam Kentang,1,1
+R82,Spaghetti Saus Daging,1,1
+R83,Pure Kentang dan Daging Sapi,0,1
+R84,Bubur Hati Ayam dan Edamame,0,1
+R85,Bubur Beras dan Ikan Kembung,0,1
+R86,"Pure Pisang, Apel, dan Yoghurt",0,1
+R87,Bubur Teri dan Bayam,0,1
+R88,Bubur Ayam Pakchoi,0,1
+R89,Snack Pepaya dan Biskuit Susu,0,1
+R90,Pure Pisang dan Alpukat,0,1
+R91,Snack Bubur Kacang Hijau,0,1
+R92,Pisang Ubi Ungu,0,1
+R93,Sop daging cincang,1,1
+R94,Makaroni karbonara,1,1
+R95,Roti panggang keju telur,1,1
+R96,Nasi tim semur ayam tahu,1,1
+R97,Nasi tim ikan patin,1,1
+R98,Bubur Tim Ayam Keju,1,1
+R99,Baked Cheese Potato,1,1
+R100,Spaghetti Kukus,1,1
+R101,Baked Tuna Pasta,1,1
+R102,Brokoli dan Kembang Kol Keju Panggang,1,1
+R103,Nasi Tim Tahu Brokoli,1,1
+R104,Stik Ayam dan Wortel Rebus,1,1
+R105,Yogurt Stroberi,1,1
+R106,Nasi Tim Ikan Kembung Telur Puyuh,1,1
+R107,Dadar gembung,2,1
+R108,Tim telur Jepang,2,1
+R109,Empal gentong,2,1
+R110,Pisang gapit,2,1
+R111,Blueberry & banana muffin,2,1
+R112,Sup Krim Brokoli,2,1
+R113,Pancake Oatmeal Pisang,2,1
+R114,Stik Mozzarella,2,1
+R115,Bola-bola Nasi,2,1
+R116,Tofu Kuah Wortel,2,1
+R117,Perkedel Dari Kentang dan Kacang Merah,2,1
+R118,Nasi Salmon,2,1
+R119,Nasi Tim Ayam Kuning,2,1
+R120,Chicken Bolognese,2,1
