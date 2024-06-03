@@ -1,121 +1,124 @@
-id_resep,nama_resep,kategori,porsi
-R1,Bubur Singkong Isi Ikan dan Ayam dengan Saus Jeruk,0,3
-R2,Pure Ikan Ungu,0,3
-R3,Ubi Tahu,0,3
-R4,Salmon Moringa,0,3
-R5,Sup Bayam Oyong,0,4
-R6,Bubur Nasi Buncis,0,6
-R7,Bubur Hati Ayam,0,4
-R8,Sup Labu Sapi,0,3
-R9,Sup Nasi Bayam,0,6
-R10,Sup Ubi Semur Sapi,0,4
-R11,Roti Isi Tuna Wijen,1,4
-R12,Onigiri Daun Kelor,1,6
-R13,Omelette Hati Ayam,1,3
-R14,Beef Schotel,1,6
-R15,Bola Ayam Ubi,1,11
-R16,Spinach Salmon Cheese,1,4
-R17,Roasted Stuff Wings,1,6
-R18,Puree Ikan Ungu,1,3
-R19,Tim Tahu Udang,1,12
-R20,Perkedel Ubi Merah,1,6
-R21,Pakchoi Baby Pasta,2,4
-R22,Puree Kentang Susu,0,1
-R23,Bubur Udang Tahu,0,1
-R24,Puree Kacang Ijo,0,1
-R25,Bubur Soto Ayam Santan,0,3
-R26,Bubur Puyuh Hati Ayam,0,1
-R27,Nugget Dori,2,4
-R28,Mini Fritata,2,6
-R29,Tahu Bakso Kuah,2,6
-R30,Nugget Bayam,2,4
-R31,Orek Bola Dori,2,4
-R32,Pure Bayam Tomat,0,1
-R33,Bubur Nasi Ayam Brokoli,0,1
-R34,Kentang Salmon,0,1
-R35,Tim Telur Tahu Sayur,0,1
-R36,Tim Labu Kuning,0,1
-R37,Pure Buah Naga,0,1
-R38,Ayam Lemon Daun Kelor,2,4
-R39,Puree Telur Rebus,0,1
-R40,Tumis Sapi Jamur,0,4
-R41,Tinny Meatballs,2,4
-R42,Ubi Mac N' Cheese,2,4
-R43,Bubur ikan dori,0,3
-R44,Bubur ubi ungu,0,3
-R45,Bubur iga sapi,0,3
-R46,Alpukat cheese cream,0,1
-R47,Sop udang,0,3
-R48,Ayam telur puyuh,0,3
-R49,tempe tomato meat sauce,2,3
-R50,tuna saus bayam,2,3
-R51,bakso kuah kuning,2,3
-R52,chicken veggie risotto,2,3
-R53,nasi goreng sayur,2,3
-R54,tim brokoli ayam,2,3
-R55,sup makaroni tofu brokoli,2,4
-R56,Tim Kentang Daging Giling,2,3
-R57,Tim Kentang Tenggiri Wortel,2,3
-R58,Nasi Tim Ikan Kakap,2,3
-R59,Nasi Tim Ubi Ayam Giling,2,3
-R60,Tim Labu Ikan,2,3
-R61,Puding susu vanila,1,1
-R62,Makaroni keju,1,1
-R63,Puree nasi kentang dan wortel,0,1
-R64,Pure pisang kurma,1,1
-R65,Nasi Sup Telur Puyuh Bola Tahu Ayam,2,3
-R66,Nasi Soto Ayam Kuah Kuning,2,3
-R67,Sup Telur Puyuh Ikan Air Tawar Labu Kuning,2,3
-R68,Nasi Ikan Kuah Kuning,2,3
-R69,Nugget Tempe Ayam Sayuran,2,3
-R70,Resep Tahu Tim,1,1
-R71,Resep Omelet Keju,1,1
-R72,Bubur Manado,1,1
-R73,Nugget Tempe Keju Mozzarella,1,1
-R74,Bubur Sumsum ,1,1
-R75,Nasi Tim Ayam,1,1
-R76,Sup Krim Tomat,1,1
-R77,Strawberry Banana Oatmeal,1,1
-R78,Bubur Tim Jagung,1,1
-R79,Egg & Cheese Crepes,1,1
-R80,Telur Orak-Arik Keju,1,1
-R81,Sup Ayam Kentang,1,1
-R82,Spaghetti Saus Daging,1,1
-R83,Pure Kentang dan Daging Sapi,0,1
-R84,Bubur Hati Ayam dan Edamame,0,1
-R85,Bubur Beras dan Ikan Kembung,0,1
-R86,"Pure Pisang, Apel, dan Yoghurt",0,1
-R87,Bubur Teri dan Bayam,0,1
-R88,Bubur Ayam Pakchoi,0,1
-R89,Snack Pepaya dan Biskuit Susu,0,1
-R90,Pure Pisang dan Alpukat,0,1
-R91,Snack Bubur Kacang Hijau,0,1
-R92,Pisang Ubi Ungu,0,1
-R93,Sop daging cincang,1,1
-R94,Makaroni karbonara,1,1
-R95,Roti panggang keju telur,1,1
-R96,Nasi tim semur ayam tahu,1,1
-R97,Nasi tim ikan patin,1,1
-R98,Bubur Tim Ayam Keju,1,1
-R99,Baked Cheese Potato,1,1
-R100,Spaghetti Kukus,1,1
-R101,Baked Tuna Pasta,1,1
-R102,Brokoli dan Kembang Kol Keju Panggang,1,1
-R103,Nasi Tim Tahu Brokoli,1,1
-R104,Stik Ayam dan Wortel Rebus,1,1
-R105,Yogurt Stroberi,1,1
-R106,Nasi Tim Ikan Kembung Telur Puyuh,1,1
-R107,Dadar gembung,2,1
-R108,Tim telur Jepang,2,1
-R109,Empal gentong,2,1
-R110,Pisang gapit,2,1
-R111,Blueberry & banana muffin,2,1
-R112,Sup Krim Brokoli,2,1
-R113,Pancake Oatmeal Pisang,2,1
-R114,Stik Mozzarella,2,1
-R115,Bola-bola Nasi,2,1
-R116,Tofu Kuah Wortel,2,1
-R117,Perkedel Dari Kentang dan Kacang Merah,2,1
-R118,Nasi Salmon,2,1
-R119,Nasi Tim Ayam Kuning,2,1
-R120,Chicken Bolognese,2,1
+id_resep,nama_resep,gambar,referensi,kategori,porsi,,,,
+R1,Bubur Singkong Isi Ikan dan Ayam dengan Saus Jeruk,R1.jpg,https://ayosehat.kemkes.go.id/pub/files/d8a32723535961f3f2a6e44f0f8ba915.pdf,0,3,,,,
+R2,Pure Ikan Ungu,R2.jpg,https://www.royco.co.id/r/puree-ikan-ungu.html/246671,0,3,,,,
+R3,Ubi Tahu,R3.jpg,https://www.royco.co.id/r/ubi-tahu.html/246891,0,3,,,,
+R4,Salmon Moringa,R4.jpg,https://www.royco.co.id/r/salmon-moringa.html/246667,0,3,,,,
+R5,Sup Bayam Oyong,R5.jpg,https://www.royco.co.id/r/sup-bayam-oyong.html/246668,0,4,,,,
+R6,Bubur Nasi Buncis,R6.jpg,https://www.royco.co.id/r/bubur-nasi-buncis.html/246889,0,6,,,,
+R7,Bubur Hati Ayam,R7.jpg,https://www.royco.co.id/r/bubur-hati-ayam.html/245407,0,4,,,,
+R8,Sup Labu Sapi,R8.jpg,https://www.royco.co.id/r/sup-labu-sapi.html/246681,0,3,,,"Note kategori:
+-  0 : 6-8 bulan
+-  1 : 9-11 bulan
+-  2 : 12-23 bulan  ",
+R9,Sup Nasi Bayam,R9.jpg,https://www.royco.co.id/r/sup-nasi-bayam.html/245405,0,6,,,,
+R10,Sup Ubi Semur Sapi,R10.jpg,https://www.royco.co.id/r/sup-ubi-semur-sapi.html/246890,0,4,,,,
+R11,Roti Isi Tuna Wijen,R11.jpg,https://www.royco.co.id/r/roti-isi-tuna-wijen.html/246898,1,4,,,,
+R12,Onigiri Daun Kelor,R12.jpg,https://www.royco.co.id/r/onigiri-daun-kelor.html/245538,1,6,,,,
+R13,Omelette Hati Ayam,R13.jpg,https://www.royco.co.id/r/omelette-hati-ayam.html/246897,1,3,,,Total resep,120
+R14,Beef Schotel,R14.jpg,https://www.royco.co.id/r/beef-schotel.html/246894,1,6,,,resep 6-8 bulan,40
+R15,Bola Ayam Ubi,R15.jpg,https://www.royco.co.id/r/bola-ayam-ubi.html/245289,1,11,,,resep 9-11 bulan,40
+R16,Spinach Salmon Cheese,R16.jpg,https://www.royco.co.id/r/spinach-salmon-cheese.html/246895,1,4,,,resep 12-23 bulan,40
+R17,Roasted Stuff Wings,R17.jpg,https://www.royco.co.id/r/roasted-stuff-wings.html/246893,1,6,,,,
+R18,Puree Ikan Ungu,R18.jpg,https://www.royco.co.id/r/puree-ikan-ungu.html/246671,1,3,,,,
+R19,Tim Tahu Udang,R19.jpg,https://www.royco.co.id/r/tim-tahu-udang.html/245540,1,12,,,Rekap resep 1-50,
+R20,Perkedel Ubi Merah,R20.jpg,https://www.royco.co.id/r/perkedel-ubi-merah.html/246896,1,6,,,resep 6-8 bulan,29
+R21,Pakchoi Baby Pasta,R21.jpg,https://www.royco.co.id/r/pakchoi-baby-pasta.html/245290,2,4,,,resep 9-11 bulan,10
+R22,Puree Kentang Susu,R22.jpg,https://www.haibunda.com/parenting/20230728213253-59-311962/30-resep-menu-mpasi-6-bulan-mudah-dibuat-bergizi-terbaik-disukai-anak,0,1,,,resep 12-23 bulan,11
+R23,Bubur Udang Tahu,R23.jpg,https://www.haibunda.com/parenting/20230728213253-59-311962/30-resep-menu-mpasi-6-bulan-mudah-dibuat-bergizi-terbaik-disukai-anak,0,1,,,,
+R24,Puree Kacang Ijo,R24.jpg,https://www.haibunda.com/parenting/20230728213253-59-311962/30-resep-menu-mpasi-6-bulan-mudah-dibuat-bergizi-terbaik-disukai-anak,0,1,,,,
+R25,Bubur Soto Ayam Santan,R25.jpg,https://ayosehat.kemkes.go.id/pub/files/d8a32723535961f3f2a6e44f0f8ba915.pdf,0,3,,,,
+R26,Bubur Puyuh Hati Ayam,R26.jpg,https://www.haibunda.com/parenting/20230728213253-59-311962/30-resep-menu-mpasi-6-bulan-mudah-dibuat-bergizi-terbaik-disukai-anak,0,1,,,,
+R27,Nugget Dori,R27.jpg,https://www.royco.co.id/r/nugget-dori.html/246920,2,4,,,,
+R28,Mini Fritata,R28.jpg,https://www.royco.co.id/r/mini-fritata.html/246918,2,6,,,,
+R29,Tahu Bakso Kuah,R29.jpg,https://www.royco.co.id/r/tahu-bakso-kuah.html/246917,2,6,,,,
+R30,Nugget Bayam,R30.jpg,https://www.royco.co.id/r/nugget-bayam.html/245541,2,4,,,,
+R31,Orek Bola Dori,R31.jpg,https://www.royco.co.id/r/orek-bola-dori.html/246915,2,4,,,,
+R32,Pure Bayam Tomat,R32.jpg,https://www.haibunda.com/parenting/20230728213253-59-311962/30-resep-menu-mpasi-6-bulan-mudah-dibuat-bergizi-terbaik-disukai-anak,0,1,,,,
+R33,Bubur Nasi Ayam Brokoli,R33.jpg,https://www.haibunda.com/parenting/20230728213253-59-311962/30-resep-menu-mpasi-6-bulan-mudah-dibuat-bergizi-terbaik-disukai-anak,0,1,,,,
+R34,Kentang Salmon,R34.jpg,https://www.haibunda.com/parenting/20230728213253-59-311962/30-resep-menu-mpasi-6-bulan-mudah-dibuat-bergizi-terbaik-disukai-anak,0,1,,,,
+R35,Tim Telur Tahu Sayur,R35.jpg,https://www.haibunda.com/parenting/20230728213253-59-311962/30-resep-menu-mpasi-6-bulan-mudah-dibuat-bergizi-terbaik-disukai-anak,0,1,,,,
+R36,Tim Labu Kuning,R36.jpg,https://www.haibunda.com/parenting/20230728213253-59-311962/30-resep-menu-mpasi-6-bulan-mudah-dibuat-bergizi-terbaik-disukai-anak,0,1,,,,
+R37,Pure Buah Naga,R37.jpg,https://www.haibunda.com/parenting/20230728213253-59-311962/30-resep-menu-mpasi-6-bulan-mudah-dibuat-bergizi-terbaik-disukai-anak,0,1,,,,
+R38,Ayam Lemon Daun Kelor,R38.jpg,https://www.royco.co.id/r/ayam-lemon-daun-kelor.html/245542,2,4,,,,
+R39,Puree Telur Rebus,R39.jpg,https://www.haibunda.com/parenting/20230728213253-59-311962/30-resep-menu-mpasi-6-bulan-mudah-dibuat-bergizi-terbaik-disukai-anak,0,1,,,,
+R40,Tumis Sapi Jamur,R40.jpg,https://www.royco.co.id/r/tumis-sapi-jamur.html/246916,0,4,,,,
+R41,Tinny Meatballs,R41.jpg,https://www.royco.co.id/r/tinny-meatballs.html/246899,2,4,,,,
+R42,Ubi Mac N' Cheese,R42.jpg,https://www.royco.co.id/r/ubi-mac-n-cheese.html/246919,2,4,,,,
+R43,Bubur ikan dori,R43.jpg,https://hellosehat.com/parenting/bayi/gizi-bayi/resep-mpasi-6-bulan/,0,3,,,,
+R44,Bubur ubi ungu,R44.jpg,https://hellosehat.com/parenting/bayi/gizi-bayi/resep-mpasi-6-bulan/,0,3,,,,
+R45,Bubur iga sapi,R45.jpg,https://hellosehat.com/parenting/bayi/gizi-bayi/resep-mpasi-6-bulan/,0,3,,,,
+R46,Alpukat cheese cream,R46.jpg,https://hellosehat.com/parenting/bayi/gizi-bayi/resep-mpasi-6-bulan/,0,1,,,,
+R47,Sop udang,R47.jpg,https://hellosehat.com/parenting/bayi/gizi-bayi/resep-mpasi-6-bulan/,0,3,,,,
+R48,Ayam telur puyuh,R48.jpg,https://hellosehat.com/parenting/bayi/gizi-bayi/resep-mpasi-6-bulan/,0,3,,,,
+R49,tempe tomato meat sauce,R49.jpg,https://www.popmama.com/baby/7-12-months/sarrah-ulfah/resep-mpasi-pilihan-untuk-bayi-12-bulan?page=all,2,3,,,,
+R50,tuna saus bayam,R50.jpg,https://www.popmama.com/baby/7-12-months/sarrah-ulfah/resep-mpasi-pilihan-untuk-bayi-12-bulan?page=all,2,3,,,,
+R51,bakso kuah kuning,R51.jpg,https://www.popmama.com/baby/7-12-months/sarrah-ulfah/resep-mpasi-pilihan-untuk-bayi-12-bulan?page=all,2,3,,,,
+R52,chicken veggie risotto,R52.jpg,https://www.popmama.com/baby/7-12-months/sarrah-ulfah/resep-mpasi-pilihan-untuk-bayi-12-bulan?page=all,2,3,,,,
+R53,nasi goreng sayur,R53.jpg,https://www.popmama.com/baby/7-12-months/sarrah-ulfah/resep-mpasi-pilihan-untuk-bayi-12-bulan?page=all,2,3,,,,
+R54,tim brokoli ayam,R54.jpg,https://www.popmama.com/baby/7-12-months/sarrah-ulfah/resep-mpasi-pilihan-untuk-bayi-12-bulan?page=all,2,3,,,,
+R55,sup makaroni tofu brokoli,R55.jpg,https://www.popmama.com/baby/7-12-months/sarrah-ulfah/resep-mpasi-pilihan-untuk-bayi-12-bulan?page=all,2,4,,,,
+R56,Tim Kentang Daging Giling,R56.jpg,https://www.generasimaju.co.id/artikel/1-tahun/resep/mpasi-anak-1-tahun,2,3,,,,
+R57,Tim Kentang Tenggiri Wortel,R57.jpg,https://www.generasimaju.co.id/artikel/1-tahun/resep/mpasi-anak-1-tahun,2,3,,,,
+R58,Nasi Tim Ikan Kakap,R58.jpg,https://www.generasimaju.co.id/artikel/1-tahun/resep/mpasi-anak-1-tahun,2,3,,,,
+R59,Nasi Tim Ubi Ayam Giling,R59.jpg,https://www.generasimaju.co.id/artikel/1-tahun/resep/mpasi-anak-1-tahun,2,3,,,,
+R60,Tim Labu Ikan,R60.jpg,https://www.generasimaju.co.id/artikel/1-tahun/resep/mpasi-anak-1-tahun,2,3,,,,
+R61,Puding susu vanila,R61.jpg,https://www.haibunda.com/parenting/20221124185109-59-290215/20-menu-mpasi-6-12-bulan-anti-gtm-pada-bayi-gampang-dibuat-bun,1,1,,,,
+R62,Makaroni keju,R62.jpg,https://www.haibunda.com/parenting/20221124185109-59-290215/20-menu-mpasi-6-12-bulan-anti-gtm-pada-bayi-gampang-dibuat-bun,1,1,,,,
+R63,Puree nasi kentang dan wortel,R63.jpg,https://www.popmama.com/baby/0-6-months/sarrah-ulfah/resep-mpasi-6-bulan?page=all,0,1,,,,
+R64,Pure pisang kurma,R64.jpg,https://www.haibunda.com/parenting/20221124185109-59-290215/20-menu-mpasi-6-12-bulan-anti-gtm-pada-bayi-gampang-dibuat-bun,1,1,,,,
+R65,Nasi Sup Telur Puyuh Bola Tahu Ayam,R65.jpg,https://www.sonora.id/read/424088737/5-resep-mpasi-usia-12-23-bulan-sesuai-dengan-pedoman-kemenkes-ri?page=all,2,3,,,,
+R66,Nasi Soto Ayam Kuah Kuning,R66.jpg,https://www.sonora.id/read/424088737/5-resep-mpasi-usia-12-23-bulan-sesuai-dengan-pedoman-kemenkes-ri?page=all,2,3,,,,
+R67,Sup Telur Puyuh Ikan Air Tawar Labu Kuning,R67.jpg,https://www.sonora.id/read/424088737/5-resep-mpasi-usia-12-23-bulan-sesuai-dengan-pedoman-kemenkes-ri?page=all,2,3,,,,
+R68,Nasi Ikan Kuah Kuning,R68.jpg,https://www.sonora.id/read/424088737/5-resep-mpasi-usia-12-23-bulan-sesuai-dengan-pedoman-kemenkes-ri?page=all,2,3,,,,
+R69,Nugget Tempe Ayam Sayuran,R69.jpg,https://www.sonora.id/read/424088737/5-resep-mpasi-usia-12-23-bulan-sesuai-dengan-pedoman-kemenkes-ri?page=all,2,3,,,,
+R70,Resep Tahu Tim,R70.jpg,https://bebeclub.co.id/artikel/resep/mpasi/resep-makanan-bayi-8-bulan,1,1,,,,
+R71,Resep Omelet Keju,R71.jpg,https://bebeclub.co.id/artikel/resep/mpasi/resep-makanan-bayi-8-bulan,1,1,,,,
+R72,Bubur Manado,R72.jpg,https://bebeclub.co.id/artikel/resep/mpasi/resep-makanan-bayi-8-bulan,1,1,,,,
+R73,Nugget Tempe Keju Mozzarella,R73.jpg,https://bebeclub.co.id/artikel/resep/mpasi/resep-makanan-bayi-8-bulan,1,1,,,,
+R74,Bubur Sumsum ,R74.jpg,https://bebeclub.co.id/artikel/resep/mpasi/resep-makanan-bayi-8-bulan,1,1,,,,
+R75,Nasi Tim Ayam,R75.jpg,https://bebeclub.co.id/artikel/resep/mpasi/resep-makanan-bayi-8-bulan,1,1,,,,
+R76,Sup Krim Tomat,R76.jpg,https://bebeclub.co.id/artikel/resep/mpasi/resep-makanan-bayi-8-bulan,1,1,,,,
+R77,Strawberry Banana Oatmeal,R77.jpg,https://bebeclub.co.id/artikel/resep/mpasi/resep-makanan-bayi-8-bulan,1,1,,,,
+R78,Bubur Tim Jagung,R78.jpg,https://bebeclub.co.id/artikel/resep/mpasi/resep-makanan-bayi-8-bulan,1,1,,,,
+R79,Egg & Cheese Crepes,R79.jpg,https://bebeclub.co.id/artikel/resep/mpasi/resep-makanan-bayi-8-bulan,1,1,,,,
+R80,Telur Orak-Arik Keju,R80.jpg,https://bebeclub.co.id/artikel/nutrisi/10-12-bulan/resep-mpasi-10-bulan,1,1,,,,
+R81,Sup Ayam Kentang,R81.jpg,https://bebeclub.co.id/artikel/nutrisi/10-12-bulan/resep-mpasi-10-bulan,1,1,,,,
+R82,Spaghetti Saus Daging,R82.jpg,https://bebeclub.co.id/artikel/nutrisi/10-12-bulan/resep-mpasi-10-bulan,1,,,,,
+R83,Pure Kentang dan Daging Sapi,R83.jpg,https://id.theasianparent.com/menu-mpasi-6-bulan,0,,,,,
+R84,Bubur Hati Ayam dan Edamame,R84.jpg,https://id.theasianparent.com/menu-mpasi-6-bulan,0,,,,,
+R85,Bubur Beras dan Ikan Kembung,R85.jpg,https://id.theasianparent.com/menu-mpasi-6-bulan,0,,,,,
+R86,"Pure Pisang, Apel, dan Yoghurt",R86.jpg,https://id.theasianparent.com/menu-mpasi-6-bulan,0,,,,,
+R87,Bubur Teri dan Bayam,R87.jpg,https://id.theasianparent.com/menu-mpasi-6-bulan,0,,,,,
+R88,Bubur Ayam Pakchoi,R88.jpg,https://id.theasianparent.com/menu-mpasi-6-bulan,0,,,,,
+R89,Snack Pepaya dan Biskuit Susu,R89.jpg,https://id.theasianparent.com/menu-mpasi-6-bulan,0,,,,,
+R90,Pure Pisang dan Alpukat,R90.jpg,https://id.theasianparent.com/menu-mpasi-6-bulan,0,,,,,
+R91,Snack Bubur Kacang Hijau,R91.jpg,https://id.theasianparent.com/menu-mpasi-6-bulan,0,,,,,
+R92,Pisang Ubi Ungu,R92.jpg,https://www.fimela.com/food/read/5209874/5-resep-mpasi-praktis-untuk-bayi-usia-6-bulan?page=6,0,,,,,
+R93,Sop daging cincang,R93.jpg,https://hellosehat.com/parenting/bayi/gizi-bayi/resep-mpasi-9-bulan/,1,,,,,
+R94,Makaroni karbonara,R94.jpg,https://hellosehat.com/parenting/bayi/gizi-bayi/resep-mpasi-9-bulan/,1,,,,,
+R95,Roti panggang keju telur,R95.jpg,https://hellosehat.com/parenting/bayi/gizi-bayi/resep-mpasi-9-bulan/,1,,,,,
+R96,Nasi tim semur ayam tahu,R96.jpg,https://hellosehat.com/parenting/bayi/gizi-bayi/resep-mpasi-9-bulan/,1,,,,,
+R97,Nasi tim ikan patin,R97.jpg,https://hellosehat.com/parenting/bayi/gizi-bayi/resep-mpasi-9-bulan/,1,,,,,
+R98,Bubur Tim Ayam Keju,R98.jpg,https://www.halodoc.com/artikel/resep-mpasi-yang-sederhana-dan-sehat-untuk-bayi-812-bulan,1,,,,,
+R99,Baked Cheese Potato,R99.jpg,https://www.halodoc.com/artikel/resep-mpasi-yang-sederhana-dan-sehat-untuk-bayi-812-bulan,1,,,,,
+R100,Spaghetti Kukus,R100.jpg,https://www.halodoc.com/artikel/resep-mpasi-yang-sederhana-dan-sehat-untuk-bayi-812-bulan,1,,,,,
+R101,Baked Tuna Pasta,R101.jpg,https://bebeclub.co.id/artikel/nutrisi/10-12-bulan/resep-mpasi-11-bulan,1,,,,,
+R102,Brokoli dan Kembang Kol Keju Panggang,R102.jpg,https://bebeclub.co.id/artikel/nutrisi/10-12-bulan/resep-mpasi-11-bulan,1,,,,,
+R103,Nasi Tim Tahu Brokoli,R103.jpg,https://bebeclub.co.id/artikel/nutrisi/10-12-bulan/resep-mpasi-11-bulan,1,,,,,
+R104,Stik Ayam dan Wortel Rebus,R104.jpg,https://bebeclub.co.id/artikel/nutrisi/10-12-bulan/resep-mpasi-11-bulan,1,,,,,
+R105,Yogurt Stroberi,R105.jpg,https://bebeclub.co.id/artikel/nutrisi/10-12-bulan/resep-mpasi-11-bulan,1,,,,,
+R106,Nasi Tim Ikan Kembung Telur Puyuh,R106.jpg,https://www.generasimaju.co.id/artikel/10-12-bulan/nutrisi-makanan/mpasi-11-bulan,1,,,,,
+R107,Dadar gembung,R107.jpg,https://www.haibunda.com/parenting/20240205223626-59-328175/tekstur-mpasi-yang-tepat-untuk-anak-13-bulan-aturan-pemberian-rekomendasi-menu-terbaik,2,,,,,
+R108,Tim telur Jepang,R108.jpg,https://www.haibunda.com/parenting/20240205223626-59-328175/tekstur-mpasi-yang-tepat-untuk-anak-13-bulan-aturan-pemberian-rekomendasi-menu-terbaik,2,,,,,
+R109,Empal gentong,R109.jpg,https://www.haibunda.com/parenting/20240205223626-59-328175/tekstur-mpasi-yang-tepat-untuk-anak-13-bulan-aturan-pemberian-rekomendasi-menu-terbaik,2,,,,,
+R110,Pisang gapit,R110.jpg,https://www.haibunda.com/parenting/20240205223626-59-328175/tekstur-mpasi-yang-tepat-untuk-anak-13-bulan-aturan-pemberian-rekomendasi-menu-terbaik,2,,,,,
+R111,Blueberry & banana muffin,R111.jpg,https://www.haibunda.com/parenting/20240205223626-59-328175/tekstur-mpasi-yang-tepat-untuk-anak-13-bulan-aturan-pemberian-rekomendasi-menu-terbaik,2,,,,,
+R112,Sup Krim Brokoli,R112.jpg,https://www.orami.co.id/magazine/resep-makanan-balita-1-2-tahun,2,,,,,
+R113,Pancake Oatmeal Pisang,R113.jpg,https://www.orami.co.id/magazine/resep-makanan-balita-1-2-tahun,2,,,,,
+R114,Stik Mozzarella,R114.jpg,https://www.orami.co.id/magazine/resep-makanan-balita-1-2-tahun,2,,,,,
+R115,Bola-bola Nasi,R115.jpg,https://www.orami.co.id/magazine/resep-makanan-balita-1-2-tahun,2,,,,,
+R116,Tofu Kuah Wortel,R116.jpg,https://www.orami.co.id/magazine/resep-makanan-balita-1-2-tahun,2,,,,,
+R117,Perkedel Dari Kentang dan Kacang Merah,R117.jpg,https://crystalsea.id/blog/mpasi-1-tahun/,2,,,,,
+R118,Nasi Salmon,R118.jpg,https://crystalsea.id/blog/mpasi-1-tahun/,2,,,,,
+R119,Nasi Tim Ayam Kuning,R119.jpg,https://crystalsea.id/blog/mpasi-1-tahun/,2,,,,,
+R120,Chicken Bolognese,R120.jpg,https://crystalsea.id/blog/mpasi-1-tahun/,2,,,,,
